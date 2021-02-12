@@ -1,0 +1,91 @@
+Matt Chapman
+Full Stack Software Engineer
+
++64 27 628 2427
+
+Full stack software engineer with a passion for modularity and efficiency, and an eye for innovation.
+My unique background in software, commercial aviation, adventure tourism, and Search and Rescue results in me being calm under pressure, a confident and decisive problem solver in critical scenarios, and a strong leader.
+
+PERSONAL INFORMATION
+  Address: , , 
+  Nationality: 
+  Driving License: 
+  Hobbies: Coding, Aviation, Rock climbing, Paragliding, Hiking, Canyoning, Canoeing
+
+SOCIAL PROFILES
+  * Github: github.com/mttchpmn
+  * Linkedin: linkedin.com/in/mttchpmn
+
+LANGUAGES
+
+SKILLS
+  Node.js
+  React
+  .NET Core
+  JSON
+  YAML
+  UML
+  PostgreSQL
+  GraphQL
+  NoSQL
+  Amazon AWS
+  DevOps
+  Git
+  CI/CD
+  Linux/Unix
+  Docker
+  Agile Methodologies
+  API Design
+  Adobe Creative Suite
+  UX / UI Design
+
+WORK EXPERIENCE
+  * 2020 – Present
+    Full Stack Engineer at TSG Clubware, Auckland
+      As part of an Agile Scrum team, implement engineering and infrastructure changes to integrate third party APIs and services to exisiting SaaS platforms; develop new systems and microservices on AWS infrastructure; create new APIs and toolsets for increasing test automation and system robustness; implement time-critical frontend features to respond to client demand; utilis AWS resources and toolchains to identify and rectify critical production issues; refactor and optimise existing legacy codebases to increase system stability, reliability, and developer experience.
+
+  Stack: React, Typescript, NodeJS, GraphQL, NoSQL, PostgreSQL, Bash, AWS, Microservices, Git
+
+
+  * 2017 – 2020
+    Lead Engineer at Metscope, Queenstown
+      Recognised a need in the aviation industry for a platform providing pilots and operators with a holistic view of all available weather and operational data at a glance.  Followed industry convention and best practice to design and architect an API and web/mobile application platform and build pipeline. Received early adoption and usage from 7 out of 9 aviation operators in Queenstown, when released as a Beta.
+
+  Stack: ReactJS, NodeJS, PostgreSQL, HTML, CSS, Bash, Linux, Git
+
+
+  * 2019 – 2019
+    Commercial Pilot (Aeroplane) at True South Flights, Queenstown
+      Conducted safe and efficient scenic flights in GA8 Airvans on Part 135 operations between Queenstown, Milford Sound, and Mt Cook. Went above and beyond to develop new media and marketing solutions to improve brand engagement. Innovated to implement new software tooling to increase operational situational awareness and safety margins.
+
+  * 2017 – 2018
+    Web Designer and Developer at Wherewolf, Queenstown
+      Developed progressive web applications using Javascript and NodeJS. Produced and designed high quality brand and client collateral, as well as graphical assets. Successfully constructed and implemented efficient tooling to decrease overheads, and maximise productivity, resulting in 96% time reductions in build pipelines.  Revised existing strategies to innovate and produce more optimal solutions for clients and team members. 
+
+  Stack: Angular, NodeJS, PostgreSQL, HTML, CSS, Bash, Linux, Git
+
+
+  * 2016 – 2017
+    IT and Software Technician at Magic Memories, Queenstown
+      Delivered exceptional solution based technical support, troubleshooting and maintenance to corporate staff of 60+, in addition to nationwide workforce. Managed multi-faceted support structure to provide timely assistance and resolution, consistently receiving outstanding feedback from users. Designed and implemented novel software solutions to improve user experience.
+
+  Stack: Bash, Python, Linux, Git
+
+
+
+EDUCATION
+  * 
+    University of Otago, Dunedin Bachelor of Arts (Eng, Coms)
+  * 
+    Wanaka Flight Training, Wanaka Commercial Pilot Licence (Aeroplane)
+
+COMPETENCIES
+  * Commerical Pilot Licence (Aeroplane), , 
+  * NZHGPA PG2 Paraglider Pilot, , 
+  * Class 1, 2, 4, & P Driver Licences, , 
+  * LandSAR Operational Field Team Leader, , 
+  * LandSAR / Coastguard Wilderness First Aid, , 
+  * NZRA Swiftwater Rescue (Grade 3), , 
+  * NZRA Raft Guide (Grade 2), , 
+  * PADI Rescue Diver (Nitrox, Drysuit), , 
+  * Professional Guitarist and Vocalist, , 
