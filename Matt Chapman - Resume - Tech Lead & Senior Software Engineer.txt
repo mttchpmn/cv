@@ -1,0 +1,121 @@
+Matt Chapman
+Tech Lead & Senior Software Engineer
+
++64 27 628 2427
+
+Charismatic and experienced Tech Lead and Senior Software Engineer with a passion for developer experience, software architecture, and mentorship / professional development.
+
+Alongside my career in software engineering, I'm lucky to have experience as a commercial pilot, river guide, and search and rescue team leader.
+
+My unique background allows me to approach the SDLC with exceptional holistic oversight, maintain calmness under pressure, and act confidently and decisively in critical scenarios.
+
+PERSONAL INFORMATION
+  Address: , , 
+  Nationality: 
+  Driving License: 
+  Hobbies: Coding, mountain biking, sea kayaking, rock climbing, paragliding, music
+f
+d
+s
+
+SOCIAL PROFILES
+  * github.com/mttchpmn: github.com/mttchpmn
+  * linkedin.com/in/mttchpmn: linkedin.com/in/mttchpmn
+  * instagram.com/mttchpmn: instagram.com/mttchpmn
+
+LANGUAGES
+
+SKILLS
+  .NET
+  GraphQL
+  PostgreSQL
+  Docker
+  AWS
+  React
+  Node JS
+  Git
+  Bash
+  Linux
+  CSS
+  Agile Methodologies
+  API Design
+  UX / UI Design
+  People Leadership
+  PowerShell
+
+WORK EXPERIENCE
+  * March 2022 – Present
+    Technical Lead at First AML, Auckland, New Zealand
+      
+  Grew and developed a brand new team of four, a QA, a product manager, and a designer. 
+  Actively mentored and grew members of my team through regular 1:1s, check-ins, and performance reviews
+  Innovated and implemented new team processes and ways of working, resulting in increased engagement, observability, and productivity
+  Acted as technical leader and escalation point for my engineering team, in addition to product team and other stakeholders
+  Oversaw technical rollout of critical business projects in order to align with both technical and product roadmaps
+
+Stack: C# / .NET, GraphQL, PostgreSQL, React, Docker, AWS
+
+  * May 2021 – Present
+    Senior BE Software Engineer at First AML, Auckland, New Zealand
+      
+  Managed technical development of complex business features, owning stakeholder communication, delivery timeframes, and rollout plans
+  Operated independently to refactor legacy code, reduce technical debt, and improve developer experience in our code base
+  Mentored and coached junior team members through code reviews, pair programming, and targeted discussion
+  Provided technical guidance and approach reviews to other engineers and stakeholders
+  Acted as Feature Lead for numerous high-profile and business-critical features, ensuring safe and timely release
+
+Stack: C# / .NET, GraphQL, PostgreSQL, React, Docker, AWS
+
+  * 2020 – 2021
+    Full Stack Software Engineer at Clubware by Xplor, Auckland
+      
+  Implemented engineering and infrastructure changes to integrate third party APIs and services to existing SaaS platforms.
+  Developed new APIs and toolsets for increasing test automation and system robustness. 
+  Refactor and optimised existing legacy codebases to increase system stability, reliability, and developer experience.
+
+Stack: React, Node JS, Dynamo DB, Serverless Stack, AWS, Docker
+
+  * 2017 – 2020
+    Founder & Technical Lead at Metscope, Auckland
+      
+  Identified a market niche in the aviation industry for a platform providing pilots and operators with a holistic view of all available weather and operational data.  
+  Designed and implemented an API and web/mobile application platform and build pipeline. 
+  Received early adoption and usage from 7 out of 9 aviation operators in Queenstown, when released as a Beta.
+
+Stack: React, Node JS, PostgreSQL, HTML, CSS, Docker
+
+  * 2019 – 2019
+    Commercial Pilot (Aeroplane) at True South Flights, Queenstown
+      
+  Conducted safe and efficient scenic flights in GA8 Airvans on Part 135 operations between Queenstown, Milford Sound, and Mt Cook. 
+  Developed new media and marketing solutions to improve brand engagement.
+  Implemented new software tooling to increase operational situational awareness and safety margins.
+
+
+  * 2017 – 2018
+    Full Stack Developer & Designer at Wherewolf, Queenstown
+      
+  Developed pioneering hybrid web applications using Javascript and NodeJS.
+  Produced and designed high quality brand and client collateral, as well as graphical assets. 
+  Implemented new developer tooling, resulting in 96% time reductions in build pipelines. 
+
+Stack: AngularJS, NodeJS, PostgreSQL, HTML, CSS, Docker
+
+
+EDUCATION
+  * 
+    Learn To Fly NZ, Wanaka Commercial Pilot Licence (Aeroplane)
+  * 
+    Otago University, Dunedin Bachelor of Arts (Eng, Coms)
+
+REFERENCES
+  *  from 
+
+COMPETENCIES
+  * Commercial Pilot Licence (Aeroplane), , 
+  * Class 1, 2, 4 & Passenger Driver Licences, , 
+  * Search and Rescue Field Team Leader, , 
+  *  Search and Rescue Wilderness First Aid, , 
+  * NZ Rafting Association Swiftwater Rescue (Grade 3), , 
+  * NZ Rafting Association Raft Guide (Grade 2), , 
+  * Professional Guitarist and Vocalist, , 
